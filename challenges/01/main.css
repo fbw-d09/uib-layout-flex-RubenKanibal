@@ -8,3 +8,10 @@ div {
   border: 2px solid red;
   text-align: center;
 }
+
+section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
