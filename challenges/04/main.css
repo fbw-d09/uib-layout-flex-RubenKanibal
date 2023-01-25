@@ -3,6 +3,9 @@
 body {
   height: 800px;
   border: 5px solid red;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
 }
 
 div {
@@ -12,4 +15,9 @@ div {
   margin: 1em;
   border: 2px solid red;
   text-align: center;
+}
+
+section {
+  border: 2px red solid;
+
 }
